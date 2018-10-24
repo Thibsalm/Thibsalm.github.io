@@ -1,0 +1,63 @@
+body
+{
+	background-color: purple;
+}
+.body
+{
+	margin-left: 25%;
+}
+h1
+{
+	color : #17252a;
+	margin-left: 25%;
+}
+ul.navbar
+{
+	position: absolute;
+	top: 30px;
+	left: 15px;
+	width: 150px;
+}
+ul.navbar li 
+{
+	margin: 5px ;
+	padding: 5px;
+	border-right: 1px solid #17252a;
+	border-top: 1px solid #17252a;
+	border-left: 10px solid #17252a;
+	border-bottom: 1px solid #17252a;
+	background-color: orange;
+	list-style-type: none;
+}
+ul.navbar a
+{
+	text-decoration: none;
+}
+a:link
+{
+	color: black;
+}
+a:visited
+{
+	color: black;
+}
+
+#first_paragraphe
+{
+	color: orange;
+}
+
+#second_paragraphe
+{
+	color: yellow;
+}
+
+#movie
+{
+	margin-left: 25%;
+	width: 25%;
+}
+
+
+
+
