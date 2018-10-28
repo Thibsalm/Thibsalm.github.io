@@ -17,6 +17,9 @@ function init() {
 	flower.src = "icons/flower1.png";
 	cont.appendChild(flower);
 
+	// DOM Task 3 //
+	document.getElementById("great").innerHTML = "You are doing great ! ";
+
 	// DOM Task 4 //
 	let image = document.createElement("img");
  
